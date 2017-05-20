@@ -2,6 +2,8 @@
 Prerequisites:
 - You must have a valid AWS account
 
+This workshop has been inspired by the aCloudGuru course [Deep Dive into Application Load Balancer (ALB)](https://acloud.guru/course/aws-application-loadbalancer/dashboard)
+
 ## Creating an Application Load Balancer (ALB). Time: 5 min
 
 An Application Load Balancer makes routing decisions at the application layer (HTTP/HTTPS), supports path-based routing, and can route requests to one or more ports on each EC2 instance or container instance in your VPC.
