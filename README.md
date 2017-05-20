@@ -168,7 +168,7 @@ An Auto Scaling group contains a collection of EC2 instances that share similar 
     - Health Check Type: **ELB**
 1. Select **Next: Configure scaling policies**.
 1. Select **Use scaling policies to adjust the capacity of this group** and Enter
-    - Scale between **1** and **3** instances. These will be the minimum and maximum size of your group.
+    - Scale between **2** and **3** instances. These will be the minimum and maximum size of your group.
     - Increase Group Size
         - Name: **Increase Group Size**
         - Execute policy when.
